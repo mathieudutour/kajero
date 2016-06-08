@@ -1,3 +1,11 @@
+TODO:
+- [ ] switch to new repo (no issues otherwise)
+- [ ] auto updater
+- [ ] feedback when saving
+- [ ] basic design (icons)
+- [ ] find another mongo wrapper (monk is outdated)
+
+
 # Kajero
 
 [![npm](https://img.shields.io/npm/v/kajero.svg?maxAge=2592000)](https://www.npmjs.com/package/kajero) [![Join the chat at https://gitter.im/JoelOtter/kajero](https://badges.gitter.im/JoelOtter/kajero.svg)](https://gitter.im/JoelOtter/kajero?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
